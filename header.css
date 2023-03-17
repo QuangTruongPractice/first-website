@@ -145,4 +145,5 @@
     height: 32px;
     border-radius: 16px;
     margin-right: 24px;
+    object-fit: cover;
 }
